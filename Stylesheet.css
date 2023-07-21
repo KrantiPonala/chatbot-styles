@@ -26,6 +26,7 @@
     box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.4);
     /* Clips any content that overflows the button */
     overflow: hidden;
+    background-color: black;
  
     /* Removes padding and borders from the button */
     padding: 0;
